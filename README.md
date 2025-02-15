@@ -3,6 +3,14 @@ Arduino ST7735 Serial Message DisplayThis project allows an Arduino to display m
 
 
 ✅ Supports real-time message updates via Serial
+
+
 ✅ Python GUI for easy message input
+
+
 ✅ Clear, readable text with improved contrast
+
+
 ✅ Fully black background for a sleek look
+
+
